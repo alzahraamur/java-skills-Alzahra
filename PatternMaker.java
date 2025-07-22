@@ -9,7 +9,7 @@ public class PatternMaker {
             }
         }
 
-        
+
         public static void printMultiplicationTable(int number, int limit) {
             for (int i = 1; i <= limit; i++) {
                 System.out.println(number + " x " + i + " = " + (number * i));
